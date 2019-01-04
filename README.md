@@ -4,8 +4,8 @@ Mimics the behavior described in this article: http://www.theverge.com/2014/2/9/
 
 Basically, asks the user before he goes to Play Store if they will rate the app with 1~3 stars or 4~5.
 
-1~3: ask them to send an email with feedback and DON'T TAKE THEM TO PLAY STORE
-4~5: send them to Play Store normally
+1-3: ask them to send an email with feedback and DON'T TAKE THEM TO PLAY STORE
+4-5: send them to Play Store normally
 
 RateMyApp
 =========
